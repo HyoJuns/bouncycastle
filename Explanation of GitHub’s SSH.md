@@ -36,9 +36,9 @@
 
 공개 - 개인(<font color=red>Private</font>) 키 쌍
 
-![n1](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n1.PNG)
+![n1](.\assets\n1.PNG)
 
-![n2](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n2.PNG)
+![n2](.\assets\n2.PNG)
 
 ------
 
