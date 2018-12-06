@@ -36,9 +36,9 @@
 
 공개 - 개인(<font color=red>Private</font>) 키 쌍
 
-![n1](.\assets\n1.PNG)
+![n1](./assets/n1.PNG)
 
-![n2](.\assets\n2.PNG)
+![n2](./assets/n2.PNG)
 
 ------
 
