@@ -46,38 +46,38 @@
 
 <!--A concept of Digital Signature-->
 
-![n3](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n3.PNG)
+![n3](./assets/n3.PNG)
 
 ------
 
 #### 5. SSH Key 생성 또는 불러오기
 
-![n4](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n4.PNG)
+![n4](./assets/n4.PNG)
 
-![n5](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n5.PNG)
+![n5](./assets/n5.PNG)
 
-![n6](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n6.PNG)
+![n6](./assets/n6.PNG)
 
-![n7](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n7.PNG)
+![n7](./assets/n7.PNG)
 
-![n8](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n8.PNG)
+![n8](./assets/n8.PNG)
 
-![n9](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n9.PNG)
+![n9](./assets/n9.PNG)
 
-![n10](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n10.PNG)
+![n10](./assets/n10.PNG)
 
-![n11](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n11.PNG)
+![n11](./assets/n11.PNG)
 
-![n12](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n12.PNG)
+![n12](./assets/n12.PNG)
 
-![n13](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n13.PNG)
+![n13](./assets/n13.PNG)
 
-![n14](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n14.PNG)
+![n14](./assets/n14.PNG)
 
-![n15](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n15.PNG)
+![n15](./assets/n15.PNG)
 
-![n16](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n16.PNG)
+![n16](./assets/n16.PNG)
 
-![n17](C:\Users\gywns\Desktop\프로젝트 필요파일\markdown\assets\n17.PNG)
+![n17](./assets/n17.PNG)
 
 #### 5. END
